@@ -1,5 +1,5 @@
-# CSS 学习
-# Git 与  GitHub
+# 基于github搭建免费blog的方法同此次作业。
+# 接下来readme，讲的用Git 与  GitHub搭建免费网站。
 
 ### 环境
 
